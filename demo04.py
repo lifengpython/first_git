@@ -19,4 +19,4 @@ time=float(input("时间："))
 inltial=float(input("初速度"))
 accereated_speed=(distance-inltial*time)*2/(time**2)
 print(str(accereated_speed))
-
+print("git hub")
